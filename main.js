@@ -1,0 +1,1 @@
+const age=prompt("Please enter your age:")
